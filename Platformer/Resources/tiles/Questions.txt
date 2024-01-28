@@ -1,0 +1,14 @@
+﻿.LOG
+
+6-a mini užduotėlė: External merge sort algoritmas.
+
+Tarkime faile turime:
+ 4   5   1   7   13   9   0   11   2   10
+
+Šį Questions.txt failą patalpinkite
+U:\www\ADS2023\Questions.txt
+ir jame pateikite savo mini užduotėles sprendimą.
+
+Taip pat, šiame faile galite pateikti savo individualius klausimus.
+
+----------------------------------------------------------------------------
